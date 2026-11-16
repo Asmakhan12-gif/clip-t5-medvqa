@@ -1,7 +1,0 @@
-model,test_set,questions,runs,closed_acc,closed_sd,open_acc,open_sd,overall_acc,overall_sd,lenient_acc,lenient_sd,token_f1,token_f1_sd
-CLIP-T5 (revised),VQA-RAD,451,3,66.3,1.9,17.0,0.9,46.7,1.5,48.4,1.2,50.6,1.0
-CLIP-T5 (revised),SLAKE,1061,3,86.3,0.7,73.9,0.5,78.0,0.6,80.3,0.7,81.9,0.6
-CLIP-T5 (revised),PathVQA,6719,3,87.2,0.5,27.1,0.3,57.2,0.3,57.6,0.4,58.8,0.5
-Original CLIP-T5 (trained on VQA-RAD only),VQA-RAD,451,3,51.2,1.1,11.7,1.9,35.6,1.2,,,,
-Original CLIP-T5 (trained on VQA-RAD only),SLAKE (zero-shot),1061,3,48.4,2.9,6.0,0.7,20.2,1.4,,,,
-Original CLIP-T5 (trained on VQA-RAD only),PathVQA (zero-shot),6719,3,42.5,1.0,0.0,0.0,21.3,0.5,,,,

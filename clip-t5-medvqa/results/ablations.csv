@@ -1,6 +1,0 @@
-variant,runs,vqarad_overall,vqarad_sd,vqarad_p,slake_overall,slake_sd,slake_p,pathvqa_overall,pathvqa_sd,pathvqa_p
-full model,3,46.7,1.5,,78.0,0.6,,57.2,0.3,
-without cross-attention,3,46.0,0.3,0.47,75.2,2.9,0.23,55.0,2.8,0.31
-global image token only,2,45.7,0.3,0.34,77.7,0.1,0.39,57.2,0.2,0.92
-question only (no image),2,41.1,0.2,0.02,54.1,0.6,<0.001,47.5,0.0,<0.001
-full model with shuffled test images,2,39.5,2.2,,43.2,0.5,,41.3,0.8,
