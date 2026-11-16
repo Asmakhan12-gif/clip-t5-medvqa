@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pt
+*.zip
+clip_t5_results/
+.ipynb_checkpoints/
+kaggle.json
